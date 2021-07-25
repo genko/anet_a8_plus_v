@@ -7,10 +7,12 @@ ANET A8 Plus with enhancments.
 
 # BOM
 
-| Description | Count  | Used For |
-| M3x10  | 4 | For fixing MGN12 to frame with mgn12_end.stl |
+| Description  | Count | Used For |
+| ------------- | ------------- | ------------- |
+| M3x10  | 4  | For fixing MGN12 to frame with mgn12_end.stl  |
 
 # Print
 
-| File | Count  | Used For |
-| mgn12_end.stl  | 4 | For fixing MGN12 to frame |
+| File  | Count | Used For |
+| ------------- | ------------- | ------------- |
+| mgn12_end.stl  | 4  | For fixing MGN12 to frame  |
