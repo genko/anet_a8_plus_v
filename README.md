@@ -7,9 +7,12 @@ ANET A8 Plus with enhancments.
 
 # BOM
 
+Only parts are listed that are not part of the original ANET A8 Plus.
+
 | Description  | Count | Used For |
 | ------------- | ------------- | ------------- |
 | M3x10  | 4  | For fixing MGN12 to frame with mgn12_end.stl  |
+| MGN12 450mm with two sliders | 2 | USed as y axis rails  |
 
 # Print
 
